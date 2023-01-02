@@ -1,6 +1,11 @@
 p{
     color: rgb(112, 69, 16);
 }
-h{
+h1{
     color: darkcyan;
+}
+.para{
+    color: rgb(102, 123, 240);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
 }
